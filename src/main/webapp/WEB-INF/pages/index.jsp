@@ -82,7 +82,7 @@
       </div>
     <% } %>
     <div class="jumbotron">
-      <h1>Bespoke Suits for Dogs</h1>
+      <h1>AWS CLOUD ADMINISTRATOR</h1>
       <p><i>GADDAM MANIKANTA</i></p>
     </div>
     <div class="page-header">
