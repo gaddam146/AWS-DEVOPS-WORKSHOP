@@ -82,8 +82,8 @@
       </div>
     <% } %>
     <div class="jumbotron">
-      <h1>AWS CLOUD ADMINISTRATOR</h1>
-      <p><i>GADDAM MANIKANTA</i></p>
+      <h1>CLOUD ADMINISTRATOR</h1>
+      <p><i>MANIKANTA</i></p>
     </div>
     <div class="page-header">
       <h1>Our Products</h1>
